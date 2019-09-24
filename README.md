@@ -1,7 +1,7 @@
 ORO Core integration/staging tree
 ===================================
 
-http://oro.cm
+http://oro.cm/
 
 What is ORO?
 --------------
